@@ -1,0 +1,12 @@
+{
+  message: 'Server running at port 5000',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-06-19T02:23:21.254Z'
+}
+{
+  message: 'Server running at port 5000',
+  level: 'error',
+  label: 'right meow!',
+  timestamp: '2023-06-19T02:25:22.294Z'
+}

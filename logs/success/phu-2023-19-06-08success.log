@@ -1,0 +1,12 @@
+{
+  message: 'Connected to database',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-19T02:23:21.216Z'
+}
+{
+  message: 'Connected to database',
+  level: 'info',
+  label: 'PH',
+  timestamp: '2023-06-19T02:25:22.261Z'
+}

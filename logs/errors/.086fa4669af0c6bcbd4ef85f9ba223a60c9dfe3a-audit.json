@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\Dulal\\Desktop\\projectsetup\\logs\\errors\\.086fa4669af0c6bcbd4ef85f9ba223a60c9dfe3a-audit.json",
+    "files": [
+        {
+            "date": 1687141395511,
+            "name": "C:\\Users\\Dulal\\Desktop\\projectsetup\\logs\\errors\\phu-2023-19-06-08error.log",
+            "hash": "f0c488deba17a23ea2da0248adbade4ce56577be252fff2a15a4fa7b4232f745"
+        }
+    ],
+    "hashType": "sha256"
+}
